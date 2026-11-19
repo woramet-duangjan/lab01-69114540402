@@ -21,3 +21,4 @@ if __name__ == "__main__":
     scores = [85, 72, 64, 91]
     print("Average:", average(scores))
     print("Grade:", to_grade(average(scores)))
+
